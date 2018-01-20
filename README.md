@@ -8,7 +8,7 @@ it's supposed to create a pipeline for a random java project.
 objectifs : On souhaite établir un pipeline de livraison : une serie d'etape Build/Test jusqu'a demander une validation 
 manuel de la part d'un utilisateur avant le deploiement sur la branche master.
 
-![alt text](https://raw.githubusercontent.com//iesseddik/TravisCI_Experimentation/blob/master/pipeline.png)
+![alt text](https://raw.githubusercontent.com//iesseddik/TravisCI_Experimentation/pipeline.png)
 
 
 
