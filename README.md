@@ -5,10 +5,12 @@ it's supposed to create a pipeline for a random java project.
 
 # Documentation du Pipeline
 
-objectifs : On souhaite établir un pipeline de livraison : une serie d'etape Build/Test jusqu'a demander une validation 
+objectifs : On souhaite Ã©tablir un pipeline de livraison : une serie d'etape Build/Test jusqu'a demander une validation 
 manuel de la part d'un utilisateur avant le deploiement sur la branche master.
 
-structure du pipeline : inserer ici un schema du pipeline.
+![alt text](https://raw.githubusercontent.com//iesseddik/TravisCI_Experimentation/blob/master/pipeline.png)
+
+
 
 
 
