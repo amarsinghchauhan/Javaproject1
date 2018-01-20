@@ -106,27 +106,27 @@ public class FeatureTransformerTest {
 	* Test du setter sur l'attribut features
 	*
 	*/
-	@Test
+	/*@Test
 	public void TestFeatureSetter() {
 		fail("not implemented yet");
-	}
+	}*/
 	
 	/**
 	* Test de la transformation sur l'attribut features
 	*
 	*/
-	@Test
+	/*@Test
 	public void TestTransform() {
 		fail("not implemented yet");
-	}
+	}*/
 	
 	/**
 	 * Test de l'export en shp
 	 * 
 	*/
-	@Test
+	/*@Test
 	public void TestExportToShp() {
 		fail("not implemented yet");
-	}
+	}*/
 	
 }
