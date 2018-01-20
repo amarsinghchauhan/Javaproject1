@@ -106,10 +106,10 @@ public class FeatureTransformerTest {
 	* Test du setter sur l'attribut features.
 	*
 	*/
-	/*@Test
+	@Test
 	public void TestFeatureSetter() {
 		fail("not implemented yet");
-	}*/
+	}
 	
 	/**
 	* Test de la transformation sur l'attribut features
