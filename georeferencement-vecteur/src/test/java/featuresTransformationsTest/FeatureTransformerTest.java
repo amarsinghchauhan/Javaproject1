@@ -103,7 +103,7 @@ public class FeatureTransformerTest {
 	}
 	
 	/**
-	* Test du setter sur l'attribut features
+	* Test du setter sur l'attribut features.
 	*
 	*/
 	/*@Test
