@@ -7,3 +7,7 @@ script:
 - mvn test 
 - mvn package
 - mvn verify
+
+deploy:
+  on:
+    branch: deploiment
