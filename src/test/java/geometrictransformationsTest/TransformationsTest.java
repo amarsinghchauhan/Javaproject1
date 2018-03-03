@@ -19,9 +19,9 @@ import featuresTransformations.FeatureTransformer;
  */
 public class TransformationsTest {
 
-	/*@Test
+	@Test
 	public void test() {
 		fail("Not yet implemented");
-	}*/
+	}
 
 }
